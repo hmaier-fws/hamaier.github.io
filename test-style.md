@@ -1,5 +1,6 @@
 # Style Guidelines
-## Use lowerCamelCase for all names
+## Use lowerCamelCase
+Use lower camel case for all names.
 
 yes:
 ```
@@ -15,7 +16,8 @@ AssociatedResource{}
 PointofContact[]
 ```
 
-## Use singular case for all names
+## Use singular tense
+Use singular tense for all names
 
 yes: `dataDictionary[]`
 

@@ -17,7 +17,7 @@ PointofContact[]
 ```
 
 ## Use singular tense
-Use singular tense for all names
+Use singular tense for all names.
 
 yes: `dataDictionary[]`
 
@@ -25,7 +25,7 @@ no: `dataDictionaries[]`
 
 ## Provide all translations
 
-Provide "[FGDC CSDGM](https://www.fgdc.gov/metadata/csdgm-standard)" and "DCAT" ([Data Catalog Vocabulary](https://www.w3.org/TR/vocab-dcat-2/)) translations when an ISO translation is provided. If no translation is available indicate "no translation".
+Provide "[__FGDC CSDGM__](https://www.fgdc.gov/metadata/csdgm-standard)" and "__DCAT__" ([Data Catalog Vocabulary](https://www.w3.org/TR/vocab-dcat-2/)) translations when an ISO translation is provided. If no translation is available indicate ```"no translation"```.
 
 no:
 ```

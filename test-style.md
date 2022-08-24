@@ -1,7 +1,7 @@
 # Style Guidelines
-  - [Use lowerCamelCase](./Use-lowerCamelCase)
-  - [Use singular tense](./#Use-singular-tense)
-  - [Provide all translations](.#Provide-all-translations)
+  - [Use lowerCamelCase](#use-lowercamelcase)
+  - [Use singular tense](#use-singular-tense)
+  - [Provide all translations](#provide-all-translations)
 
 ## Use lowerCamelCase
 Use lower camel case for all names.

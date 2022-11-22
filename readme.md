@@ -6,7 +6,7 @@ Regional Data Manager | IT Specialist (Data Management)
 
 Science Applications, Alaska Region
 
-U.S. Fish and Wildlife Service [https://www.fws.gov]((https://www.fws.gov))
+U.S. Fish and Wildlife Service ([https://www.fws.gov](https://www.fws.gov))
 
 Fairbanks, AK
 

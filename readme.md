@@ -1,5 +1,3 @@
-README.md file for hamaier.github.io account
-
 # Hilmar Maier
 ## Regional Data Manager - IT Specialist (Data Management)
 

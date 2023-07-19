@@ -1,4 +1,7 @@
-# Style Guidelines
+# mdJSON Schema Style Guidelines
+The following guidelines should be used when editiing mdJSON schema definition files. 
+
+# Guidelines
   - [Use lowerCamelCase](#use-lowercamelcase)
   - [Use singular tense](#use-singular-tense)
   - [Provide all translations](#provide-all-translations)
